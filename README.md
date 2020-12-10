@@ -7,4 +7,5 @@ The goal of this hackathon is to 'find something interesting' in the Amazon revi
 * https://docs.google.com/spreadsheets/d/1-X19BgXpuT1-5nIqO4BM6KrDAwU2fBmTYLNf__2jo1U/edit?usp=sharing
 
 
-## Note: NLP is not strictly required for this hackathon.  However, the judges strongly suggest submitting an NLP-related project if your goal is to **win** the hackathon.
+
+### Note: NLP is not strictly required for this hackathon.  However, the judges strongly suggest submitting an NLP-related project if your goal is to **win** the hackathon.
