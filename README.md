@@ -2,11 +2,18 @@
 
 The goal of this hackathon is to 'find something interesting' in the Amazon review data linked below and put together a short presentation using Google Slides, PowerPoint, or the presentation software of your choice. The presentation should have a absolute maximum of eight pages TOTAL including introduction and conclusion.
 
-The github link to your presentation and data analysis should be shared to the Judges via Slack direct message on or before Friday, December 11th, at 4pm. No late presentations will be accepted for prize consideration.
-
 
 ## Link to hackathon data
 * https://docs.google.com/spreadsheets/d/1-X19BgXpuT1-5nIqO4BM6KrDAwU2fBmTYLNf__2jo1U/edit?usp=sharing
+
+
+### Notes
+The files in this github repo show a sample loading of a similar dataset to the one you'll use for this hackathon. You are NOT to use the dataset in this repo, it is only a SAMPLE.
+
+The github link to your presentation and data analysis should be shared to the Judges via Slack direct message on or before Friday, December 11th, at 4pm. No late presentations will be accepted for prize consideration.
+
+
+
 
 
 ## FYI: Additional resources for Natural Language Processing
