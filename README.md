@@ -7,5 +7,6 @@ The goal of this hackathon is to 'find something interesting' in the Amazon revi
 * https://docs.google.com/spreadsheets/d/1-X19BgXpuT1-5nIqO4BM6KrDAwU2fBmTYLNf__2jo1U/edit?usp=sharing
 
 
+The judges will pick four finalists solely based on the material submitted. These four finalists will then present their projects to the judges and the rest of the participants on Monday, December 14th. The judges will then pick the winner at that time.
 
 ### Note: NLP is not strictly required for this hackathon.  However, the judges strongly suggest submitting an NLP-related project if your goal is to **win** the hackathon.
