@@ -1,6 +1,6 @@
 # Holiday Hackathon 2020
 
-The goal of this hackathon is to 'find something interesting' in the Amazon review data linked below and put together a short presentation using Google Slides, PowerPoint, or the presentation software of your choice. The presentation should have a absolute maximum of eight pages TOTAL including introduction and conclusion.
+The goal of this hackathon is to 'find something interesting' in the Amazon review data linked below and put together a short presentation using Google Slides, PowerPoint, or the presentation software of your choice. The presentation should have a absolute maximum of eight pages TOTAL including title page, introduction, and conclusion.
 
 
 ## Link to hackathon data
